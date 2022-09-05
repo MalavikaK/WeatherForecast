@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HW03</string>
+    <string name="currentCity">Current city not set yet</string>
+    <string name="btn_currentCity">Set Current city</string>
+    <string name="pt_cityName">City name</string>
+    <string name="pt_Country">Country</string>
+    <string name="search_city">Search city</string>
+    <string name="there_are_no_cities_to_display">There are no cities to display.</string>
+    <string name="search_the_city_from_the_search_box_and_save">Search the city from the search box and save.</string>
+    <string name="enter_city_details">Enter City Details</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="enter_country">Enter Country</string>
+<!--    <string name="api_key">TAMWogDyAPKGPxGMNgd1WG4RGVwiqrKG</string>-->
+<!--    <string name="api_key">eWMs2m5wxN2k1YmzqI3cvkZSLkmuPDCv</string>-->
+<!--    <string name="api_key">Vw7ouNuWXbpenk1gPClPIjWrLo5muIam</string>-->
+<!--    <string name="api_key">J83pn026kudp9AvaohZbnzQLa1tyRo7V</string>-->
+<!--    <string name="api_key">DGYEGemMBdLS58Avj0Yzz3y6YweOtywr</string>-->
+<!--    <string name="api_key">9TiTHPIFQoTmGxL5yENqVujwv4xAQA60</string>-->
+    <string name="api_key">1bJeI6dG01uo5K7QAVVGDhn8X1xbISGX</string>
+    <string name="todo">TODO</string>
+    <string name="saved_cities">Saved Cities</string>
+    <string name="condition">Condition</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="click_here_for_more_details">Click here for more details</string>
+    <string name="save_city">Save City</string>
+    <string name="set_as_current">Set as Current</string>
+</resources>
